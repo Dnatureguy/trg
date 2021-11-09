@@ -1,0 +1,156 @@
+#withdraw[data-v-1c9cfa0d] {
+ padding:0 14px
+}
+#withdraw .with-box[data-v-1c9cfa0d] {
+ margin-top:20px
+}
+#withdraw .with-box .tit[data-v-1c9cfa0d] {
+ color:#8841e0;
+ margin:15px 0 13px
+}
+#withdraw .with-box .w-tit[data-v-1c9cfa0d] {
+ color:#e23178;
+ margin-left:5px;
+ cursor:pointer
+}
+#withdraw .with-box .w-tit2[data-v-1c9cfa0d] {
+ color:#e23178;
+ margin-left:5px
+}
+#withdraw .with-box .o-money[data-v-1c9cfa0d] {
+ width:350px;
+ display:inline-block
+}
+#withdraw .with-box .o-money[data-v-1c9cfa0d] .el-input__inner {
+ border-radius:5px;
+ color:#fff
+}
+#withdraw .with-box .select_pay_type[data-v-1c9cfa0d] {
+ color:#fff
+}
+#withdraw .with-box .is-show[data-v-1c9cfa0d] {
+ opacity:0;
+ width:0;
+ height:0;
+ margin-left:-3px
+}
+#withdraw .with-box .btn-withdraw .el-button--warning[data-v-1c9cfa0d] {
+ background-color:#ffff1b;
+ width:130px;
+ font-size:16px;
+ border:0;
+ color:#000
+}
+#withdraw .with-box .btn-withdraw .el-button--warning.is-disabled[data-v-1c9cfa0d] {
+ background-color:#f5cf82
+}
+#withdraw .with-box .cost-box[data-v-1c9cfa0d] {
+ color:#5a5e66
+}
+#withdraw .with-box .cost-box .cost[data-v-1c9cfa0d] {
+ margin-left:10px
+}
+#withdraw .with-box .cost-box .w-money[data-v-1c9cfa0d] {
+ color:#8841e0
+}
+#withdraw .with-box .no-card[data-v-1c9cfa0d] {
+ text-align:center
+}
+#withdraw .with-box .no-card .bind-card[data-v-1c9cfa0d] {
+ color:#8841e0;
+ cursor:pointer
+}
+#withdraw .bank-dialog[data-v-1c9cfa0d] .el-dialog--center {
+ border-radius:10px
+}
+#withdraw .bank-dialog[data-v-1c9cfa0d] .el-dialog--center .el-dialog__header {
+ padding-top:15px;
+ background-color:#dbd0b7;
+ border-radius:10px 10px 0 0
+}
+#withdraw .bank-dialog[data-v-1c9cfa0d] .el-dialog--center .el-dialog__header .el-dialog__headerbtn .el-dialog__close,
+#withdraw .bank-dialog[data-v-1c9cfa0d] .el-dialog--center .el-dialog__header .el-dialog__title {
+ color:#fff
+}
+#withdraw .bank-dialog .dialog-footer .el-button[data-v-1c9cfa0d] {
+ border-radius:17px;
+ width:130px;
+ height:34px;
+ line-height:0;
+ border:1px solid #8841e0;
+ font-size:16px;
+ color:#8841e0;
+ background-color:#fff
+}
+#withdraw .bank-dialog .dialog-footer .el-button--warning[data-v-1c9cfa0d] {
+ background-color:#8841e0;
+ border:0;
+ color:#fff
+}
+#withdraw .bank-dialog .dialog-footer .el-button--warning.is-disabled[data-v-1c9cfa0d] {
+ background-color:#f5cf82
+}
+#withdraw .remind-info[data-v-1c9cfa0d] {
+ margin-top:20px;
+ margin-bottom:15px;
+ padding-top:15px;
+ position:relative;
+ z-index:0
+}
+#withdraw .remind-info[data-v-1c9cfa0d]:before {
+ content:"";
+ position:absolute;
+ left:0;
+ top:0;
+ width:100%;
+ height:1px;
+ background-image:-webkit-gradient(linear,left top,left bottom,from(#dbd0b7),to(#dbd0b7)),-webkit-gradient(linear,left top,left bottom,from(#8841e0),to(#8841e0));
+ background-image:linear-gradient(#dbd0b7,#dbd0b7),linear-gradient(#8841e0,#8841e0)
+}
+#withdraw .remind-info h1[data-v-1c9cfa0d] {
+ font-size:14px;
+ font-weight:400;
+ color:#fff
+}
+#withdraw .remind-info p[data-v-1c9cfa0d] {
+ color:#fff;
+ font-size:12px
+}
+#withdraw .remind-info p a[data-v-1c9cfa0d] {
+ color:#d6a23e;
+ margin-left:5px
+}
+#withdraw .w-tips[data-v-1c9cfa0d] {
+ color:#aaa;
+ margin-left:10px
+}
+#withdraw .add-btns button[data-v-1c9cfa0d] {
+ display:block;
+ width:140px;
+ height:40px;
+ border-radius:5px;
+ line-height:40px;
+ background-color:#f96;
+ color:#fff;
+ margin-bottom:15px;
+ font-size:14px;
+ cursor:pointer
+}
+#withdraw .ok-link[data-v-1c9cfa0d] {
+ padding-bottom:35px
+}
+#withdraw .ok-link .item[data-v-1c9cfa0d] {
+ color:#666;
+ padding:5px 0
+}
+#withdraw .add-usdt[data-v-1c9cfa0d] .el-select {
+ width:286px
+}
+#withdraw .add-usdt[data-v-1c9cfa0d] .el-radio {
+ margin-right:10px;
+ margin-bottom:10px
+}
+#withdraw .el-form-item__content .all-money[data-v-1c9cfa0d],
+#withdraw[data-v-1c9cfa0d] .el-select .el-input__inner {
+ color:#fff
+}

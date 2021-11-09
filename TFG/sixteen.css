@@ -1,0 +1,15 @@
+#Recharge[data-v-0bc36f78] {
+ padding:0 0 20px 35px;
+ position:relative;
+ height:100%
+}
+#Recharge .el-menu--horizontal[data-v-0bc36f78] {
+ border-bottom:1px solid #dbd0b7
+}
+#Recharge .el-menu--horizontal .el-menu-item[data-v-0bc36f78] {
+ height:50px;
+ line-height:50px
+}
+#Recharge[data-v-0bc36f78] .rech-box {
+ padding:20px 0
+}

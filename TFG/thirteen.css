@@ -1,0 +1,14 @@
+#UserProCom[data-v-6287a678] {
+ margin-left:15px
+}
+#UserProCom .el-menu--horizontal[data-v-6287a678] {
+ color:#fff!important;
+ border-bottom:1px solid #dbd0b7
+}
+#UserProCom .el-menu--horizontal .el-menu-item[data-v-6287a678] {
+ height:50px;
+ line-height:50px
+}
+#UserProCom .el-menu-item.is-active[data-v-6287a678] {
+ background-color:#222127
+}

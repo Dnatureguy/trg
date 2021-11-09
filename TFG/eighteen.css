@@ -1,0 +1,89 @@
+#RechargeTemplate .tit[data-v-a8045b6e] {
+ color:#fff;
+ margin:17px 0 8px;
+ font-size:12px
+}
+#RechargeTemplate .right-unit[data-v-a8045b6e] {
+ color:#fff;
+ margin-left:10px
+}
+#RechargeTemplate .moneys[data-v-a8045b6e] {
+ display:-webkit-box;
+ display:-ms-flexbox;
+ display:flex;
+ margin-top:11px
+}
+#RechargeTemplate .moneys li[data-v-a8045b6e] {
+ width:80px;
+ height:35px;
+ line-height:35px;
+ border:1px solid #dcdcdc;
+ text-align:center;
+ margin-right:8px;
+ border-radius:4px;
+ color:#fff;
+ cursor:pointer
+}
+#RechargeTemplate .moneys li.active[data-v-a8045b6e] {
+ color:#ffff1b;
+ border:1px solid #ffff1b
+}
+#RechargeTemplate .pay-activity[data-v-a8045b6e] {
+ width:auto;
+ padding:17px 0 36px
+}
+#RechargeTemplate .pay-activity ul li[data-v-a8045b6e] {
+ display:-webkit-box;
+ display:-ms-flexbox;
+ display:flex;
+ margin-bottom:14px
+}
+#RechargeTemplate .pay-activity ul li[data-v-a8045b6e]:last-child {
+ margin-bottom:0
+}
+#RechargeTemplate .pay-activity ul li i[data-v-a8045b6e] {
+ width:20px;
+ height:20px;
+ overflow:hidden;
+ cursor:pointer;
+ margin-right:8px
+}
+#RechargeTemplate .pay-activity ul li i.icon-yuanhuan[data-v-a8045b6e] {
+ font-size:18px;
+ color:#c9c9c9
+}
+#RechargeTemplate .pay-activity ul li i.icon-xuanzhong[data-v-a8045b6e] {
+ font-size:15px;
+ color:#018ffd
+}
+#RechargeTemplate .pay-activity ul li h1[data-v-a8045b6e] {
+ font-size:14px;
+ font-weight:400;
+ cursor:pointer;
+ color:#fff;
+ -webkit-user-select:none;
+ -moz-user-select:none;
+ -ms-user-select:none;
+ user-select:none
+}
+#RechargeTemplate .pay-activity ul li span[data-v-a8045b6e] {
+ color:#000;
+ margin-left:12px;
+ cursor:pointer;
+ font-size:14px
+}
+#RechargeTemplate .money-input .o-money[data-v-a8045b6e] {
+ width:267px
+}
+#RechargeTemplate .money-input .o-money[data-v-a8045b6e] .el-input__inner {
+ border-radius:5px;
+ color:#fff
+}
+#RechargeTemplate .money-input .red[data-v-a8045b6e] .el-input__inner {
+ color:#fff
+}
+#RechargeTemplate .money-input .error-msg[data-v-a8045b6e] {
+ color:#fff;
+ margin-left:8px;
+ letter-spacing:1px
+}

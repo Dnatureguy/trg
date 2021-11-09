@@ -1,0 +1,100 @@
+#banner[data-v-5a6dec06] {
+ width:100%;
+ position:relative
+}
+#banner .swiper-container[data-v-5a6dec06],
+#banner[data-v-5a6dec06] {
+ height:100%;
+ max-height:475px
+}
+#banner .swiper-container img[data-v-5a6dec06] {
+ height:100%;
+ max-height:475px;
+ display:block;
+ margin:0 auto;
+ -webkit-box-shadow:0 2px 8px 0 #9f9f9f;
+ box-shadow:0 2px 8px 0 #9f9f9f
+}
+#banner .swiper-container .swiper-button-prev[data-v-5a6dec06] {
+ background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAABUCAMAAAA2y95oAAAAgVBMVEUAAAAAAAAAAADo6OgAAAAAAADU1NSoqKiCgoJhYWEPDw8AAAAAAAAAAAAAAAD9/f339/fy8vLu7u7FxcVwcHBISEg9PT02NjYjIyMAAAD09PTr6+vg4ODZ2dnR0dHJycnAwMC+vr60tLSbm5uVlZWOjo55eXlWVlYxMTEAAAD///+QbMzpAAAAKnRSTlNmACHhY0TMqZKEalpXNyT89Ozov4t7d3VvW/Dl2NHJwbu4saCdmo+Aczu9iR9gAAAAqUlEQVRIx+3XRxKCUBBF0ZYgIEgSFHNOb/8LtIoF6B18Z/+OT/W4n30tKuJgMmY/K0ZpoPnoGDRUAN0aOiuhi6HLoYvM5/P9q0WL2EkHdE1nwo66EDZV4pDtdSVspxthoe6MpUANoToDtcqMlGhqqFQhhdsZgg81DGbaUFi/EHyqWiLYSwyupJ7BSh2CQ92Yz+dzXARd7viPLd3+2YHTHfB2tlOiPC4nYx++OAkBkO5WJQAAAABJRU5ErkJggg==) no-repeat;
+ left:-39px
+}
+#banner .swiper-container .swiper-button-next[data-v-5a6dec06],
+#banner .swiper-container .swiper-button-prev[data-v-5a6dec06] {
+ height:84px;
+ width:39px;
+ margin-right:0!important;
+ -webkit-transition:all .3s ease-in-out;
+ transition:all .3s ease-in-out;
+ z-index:300
+}
+#banner .swiper-container .swiper-button-next[data-v-5a6dec06] {
+ background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAABUCAMAAAA2y95oAAAAbFBMVEUAAAAAAADY2NhUVFTo6OgeHh4AAAAAAAAAAADz8/O+vr6jo6OLi4sAAAAAAAAAAAAAAAD7+/v39/fv7+/m5uaTk5N3d3d1dXVmZmYVFRUJCQkAAAD5+fng4ODf39+Dg4NHR0cAAAAAAAD////plcsSAAAAI3RSTlNmANB/4m5jWETvuKWYWzckIvny6N2cjoyHa2gg9tjWlHpXO4L+DDAAAACpSURBVEjH7dc3EsMwDAVRUDlT0ZbkbNz/jvbwANYWnHHDrV+H5kOMqy/yTH7l3CUX14HrBASZmF6Ya5mzwiqga6HLJBQK/akkYq5SCGsKF70z2GhC4czgSacdwnJDcNUyRTDWK4XlE8FUB3jBirBIa4/spgthiTaMPYDaJj0Dto+IpaOu5FyDxgKavywUCrl4GXQvzzvWCt7Zfne76aAzb8D4n+KyR3/PBx6XB580Uz63AAAAAElFTkSuQmCC) no-repeat;
+ right:-39px
+}
+#banner .swiper-container[data-v-5a6dec06] .swiper-button-disabled {
+ pointer-events:auto
+}
+#banner .swiper-container:hover .swiper-button-prev[data-v-5a6dec06] {
+ left:0;
+ -webkit-transition:all .3s ease-in-out;
+ transition:all .3s ease-in-out
+}
+#banner .swiper-container:hover .swiper-button-next[data-v-5a6dec06] {
+ right:0;
+ -webkit-transition:all .3s ease-in-out;
+ transition:all .3s ease-in-out
+}
+#banner[data-v-5a6dec06] .swiper-slide {
+ width:100%!important;
+ overflow:hidden
+}
+.notice-wrapper[data-v-5a6dec06] {
+ width:865px;
+ display:-webkit-box;
+ display:-ms-flexbox;
+ display:flex;
+ -webkit-box-align:center;
+ -ms-flex-align:center;
+ align-items:center;
+ position:absolute;
+ height:54px;
+ overflow:hidden;
+ bottom:20px;
+ z-index:10;
+ -webkit-box-sizing:border-box;
+ box-sizing:border-box;
+ padding:0 20px 0 70px;
+ margin-left:50%;
+ -webkit-transform:translateX(-50%);
+ transform:translateX(-50%);
+ background:50% url(https://res-qn.boLink-edu.com/alj_www/static/img/tzl.181f6fe.png) no-repeat
+}
+.notice-wrapper .voice[data-v-5a6dec06] {
+ display:block;
+ width:18px;
+ height:18px;
+ position:absolute;
+ left:10px;
+ top:6px;
+ background-size:100%;
+ background-repeat:no-repeat;
+ margin-right:5px
+}
+.notice-wrapper .n-marquee[data-v-5a6dec06] {
+ min-width:700px;
+ overflow:hidden
+}
+.notice-wrapper .n-marquee .notice-con[data-v-5a6dec06] {
+ min-width:700px;
+ display:-webkit-box;
+ display:-ms-flexbox;
+ display:flex
+}
+.notice-wrapper .n-marquee .notice-con>p[data-v-5a6dec06] {
+ white-space:nowrap;
+ line-height:30px;
+ font-size:20px;
+ padding-right:30px;
+ color:#fff
+}

@@ -1,0 +1,119 @@
+.mx_brbox[data-v-560ab50a] {
+ -webkit-box-sizing:border-box;
+ box-sizing:border-box
+}
+.mx_flex[data-v-560ab50a] {
+ display:-webkit-box;
+ display:-ms-flexbox;
+ display:flex
+}
+.mx_flex_content[data-v-560ab50a] {
+ -moz-flex-direction:row;
+ -o-flex-direction:row;
+ -webkit-box-orient:horizontal;
+ -webkit-box-direction:normal;
+ -ms-flex-direction:row;
+ flex-direction:row;
+ -o-flex-wrap:wrap;
+ -ms-flex-wrap:wrap;
+ flex-wrap:wrap;
+ -webkit-box-pack:justify;
+ -ms-flex-pack:justify;
+ justify-content:space-between
+}
+.mx_flex_mid[data-v-560ab50a] {
+ display:-webkit-box;
+ display:-ms-flexbox;
+ display:flex;
+ -webkit-box-pack:center;
+ -ms-flex-pack:center;
+ justify-content:center;
+ -webkit-box-align:center;
+ -ms-flex-align:center;
+ align-items:center
+}
+.mx_more_ellipsis[data-v-560ab50a] {
+ overflow:hidden;
+ text-overflow:ellipsis;
+ display:-webkit-box;
+ -webkit-line-clamp:2;
+ -webkit-box-orient:vertical
+}
+.mx_single_ellipsis[data-v-560ab50a] {
+ white-space:nowrap;
+ overflow:hidden;
+ text-overflow:ellipsis
+}
+#Foot[data-v-560ab50a] {
+ background-color:#000
+}
+#Foot .foot-navbg[data-v-560ab50a] {
+ background-color:#000;
+ background-image:none!important
+}
+#Foot .foot-navbg .foot-nav[data-v-560ab50a] {
+ width:1100px;
+ margin:0 auto;
+ display:-webkit-box;
+ display:-ms-flexbox;
+ display:flex
+}
+#Foot .foot-navbg .foot-nav .title[data-v-560ab50a] {
+ -webkit-box-flex:1;
+ -ms-flex:1;
+ flex:1;
+ font-size:20px;
+ color:#fff
+}
+#Foot .foot-navbg .foot-nav ul[data-v-560ab50a] {
+ -webkit-box-flex:5;
+ -ms-flex:5;
+ flex:5;
+ text-align:right
+}
+#Foot .foot-navbg .foot-nav ul li[data-v-560ab50a] {
+ display:inline-block;
+ margin-left:10px
+}
+#Foot .foot-navbg .foot-nav ul li[data-v-560ab50a]:hover {
+ cursor:pointer
+}
+#Foot .foot-navbg .foot-nav ul li img[data-v-560ab50a] {
+ width:100%;
+ vertical-align:middle
+}
+#Foot .pingtai[data-v-560ab50a] {
+ color:#fff;
+ width:1100px;
+ height:105px;
+ margin:0 auto;
+ padding-top:35px;
+ display:-webkit-box;
+ display:-ms-flexbox;
+ display:flex
+}
+#Foot .pingtai ul[data-v-560ab50a] {
+ -webkit-box-flex:5;
+ -ms-flex:5;
+ flex:5
+}
+#Foot .pingtai ul li[data-v-560ab50a] {
+ display:inline-block;
+ width:80px;
+ margin-right:20px
+}
+#Foot .pingtai ul li[data-v-560ab50a]:hover {
+ cursor:pointer
+}
+#Foot .pingtai .qrcode[data-v-560ab50a] {
+ -webkit-box-flex:1;
+ -ms-flex:1;
+ flex:1
+}
+#Foot .banquan[data-v-560ab50a] {
+ width:1100px;
+ margin:0 auto;
+ color:#fff;
+ font-size:14px;
+ line-height:45px
+}
